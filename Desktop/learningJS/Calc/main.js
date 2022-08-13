@@ -13,3 +13,5 @@ function calc(operation, a, b) {
 
 console.log(calc('+', 4, 5));
 console.log(calc('-', 4, 5));
+
+PS TEST
